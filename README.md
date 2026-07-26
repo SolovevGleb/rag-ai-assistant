@@ -204,19 +204,16 @@ ElectricMotorController-RAG/
 │   └── questions.json
 │
 ├── raw/
-│   └── (исходные документы DOCX)
+│   └── README.md
+│       (описание исходной технической документации)
 │
 ├── processed/
-│   ├── ElectricMotorController-RAG_text.txt
-│   ├── ElectricMotorController-RAG_sections.json
-│   ├── ElectricMotorController-RAG_subsections.json
-│   ├── ElectricMotorController-RAG_subsections_clean.json
-│   ├── ElectricMotorController-RAG_chunks.json
-│   ├── ElectricMotorController-RAG_chunks_context.json
-│   └── ElectricMotorController-RAG_embeddings.json
+│   └── README.md
+│       (описание обработанных данных и этапов подготовки)
 │
 ├── qdrant/
-│   └── (локальная база Qdrant)
+│   └── README.md
+│       (описание локальной векторной базы Qdrant)
 │
 ├── categories.txt
 │
