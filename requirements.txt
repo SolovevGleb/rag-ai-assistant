@@ -1,0 +1,6 @@
+python-docx
+sentence-transformers
+qdrant-client
+gigachat
+numpy
+tqdm
